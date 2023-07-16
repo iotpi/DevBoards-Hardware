@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IotPi_MCU_Cmsemicon")(type "KiCad")(uri "${KIPRJMOD}/../Symbols/IotPi_MCU_Cmsemicon.kicad_sym")(options "")(descr ""))
+  (lib (name "IotPi_Linear_Regulator")(type "KiCad")(uri "${KIPRJMOD}/../Symbols/IotPi_Linear_Regulator.kicad_sym")(options "")(descr ""))
+)
