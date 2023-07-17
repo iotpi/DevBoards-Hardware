@@ -988,7 +988,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f86220fc-627f-4bf3-b098-da9ef915abb9)
   )
-  (label "V_{IN}" (at 27.305 38.1 180) (fields_autoplaced)
+  (label "MCU_V_{IN}" (at 27.305 38.1 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fa1557ae-aeb3-42ce-b827-a1bdc9fe87ef)
   )

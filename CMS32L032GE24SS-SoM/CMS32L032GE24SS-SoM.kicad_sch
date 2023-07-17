@@ -865,7 +865,7 @@
     (property "Value" "Connection to DAPLink Board" (at 41.91 20.955 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Horizontal" (at 41.91 34.925 0)
+    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical" (at 41.91 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 41.91 34.925 0)
