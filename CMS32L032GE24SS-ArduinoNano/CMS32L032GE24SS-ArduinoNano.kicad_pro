@@ -449,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CMS32L032GE24SS-SoM.kicad_pro",
+    "filename": "CMS32L032GE24SS-ArduinoNano.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -467,8 +467,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "via_diameter": 0.4,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
@@ -484,8 +484,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.1,
-        "via_diameter": 0.35,
-        "via_drill": 0.2,
+        "via_diameter": 0.4,
+        "via_drill": 0.3,
         "wire_width": 6
       },
       {
