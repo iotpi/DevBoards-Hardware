@@ -540,6 +540,10 @@
       {
         "netclass": "PWR",
         "pattern": "/*V_{IN}*"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "/*V_{OUT}*"
       }
     ]
   },
