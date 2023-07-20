@@ -2609,7 +2609,7 @@
     )
     (pin "1" (uuid 9b71d82d-1595-4741-a685-bfb44227fb49))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "#PWR0302") (unit 1)
         )
@@ -2647,7 +2647,7 @@
     (pin "1" (uuid 687a3bca-027c-48a4-9c65-0631fdd0c19e))
     (pin "2" (uuid b79711d9-363f-4aeb-95e2-5edabceffbb7))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "R301") (unit 1)
         )
@@ -2685,7 +2685,7 @@
     (pin "1" (uuid 2da4f8c1-25dd-4af9-9386-32321edbc91c))
     (pin "2" (uuid d27859a5-5096-4923-b554-400b5ff4f5a8))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "C301") (unit 1)
         )
@@ -2723,7 +2723,7 @@
     (pin "1" (uuid e0912a7e-d00b-48f9-b0b3-ee25834f342f))
     (pin "2" (uuid b7298d26-d256-4281-ba08-15a15bf9ac64))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "C302") (unit 1)
         )
@@ -2761,7 +2761,7 @@
     (pin "1" (uuid d07a206c-caa8-4f52-91b0-2f6c819ea18c))
     (pin "2" (uuid 73db1913-8f38-4807-8e0c-e5cb2a08c314))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "C303") (unit 1)
         )
@@ -2799,7 +2799,7 @@
     (pin "1" (uuid bf11de9e-085f-497a-9852-9b69b34c8b96))
     (pin "2" (uuid 9d0647a0-20de-4e1f-8208-1ae2f6f46457))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "R302") (unit 1)
         )
@@ -2840,7 +2840,7 @@
     (pin "4" (uuid 48fe937d-082a-4a35-befe-650a9fdc4c99))
     (pin "5" (uuid ba6f2672-07c1-49cd-ab81-2391c0349fbe))
     (instances
-      (project "CMS32L032GE24SS-SoM"
+      (project "CMS32L032GE24SS-ArduinoNano"
         (path "/c0ebcd8e-c90a-40d9-842d-ee55e79d6adf/81a3ddea-1dee-441f-ad49-ec04dc1c937d"
           (reference "U301") (unit 1)
         )
