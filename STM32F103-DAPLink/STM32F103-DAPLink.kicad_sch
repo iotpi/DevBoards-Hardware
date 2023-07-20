@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 502e9e84-f466-43c2-b8f3-530a3feabc6c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 48.26 64.135) (size 38.735 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 956f254a-22de-43ec-b525-d18b7f50507c)
+    (property "Sheetname" "MCU" (at 48.26 63.4234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 48.26 95.1996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "STM32F103-DAPLink"
+        (path "/502e9e84-f466-43c2-b8f3-530a3feabc6c" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 119.38 64.77) (size 42.545 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 98c22a73-2ac8-4a62-946e-9a981339b96d)
+    (property "Sheetname" "Regulator 3V3" (at 119.38 64.0584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Regulator3V3.kicad_sch" (at 119.38 94.5646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "STM32F103-DAPLink"
+        (path "/502e9e84-f466-43c2-b8f3-530a3feabc6c" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
