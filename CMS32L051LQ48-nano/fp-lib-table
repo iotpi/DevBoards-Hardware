@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IotPi_ArduinoNanoMountingHoles")(type "KiCad")(uri "${KIPRJMOD}/../Footprints/IotPi_ArduinoNanoMountingHoles.pretty")(options "")(descr ""))
+)
