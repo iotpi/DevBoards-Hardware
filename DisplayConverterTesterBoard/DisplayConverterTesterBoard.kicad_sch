@@ -8,6 +8,23 @@
   )
 
 
+  (sheet (at 186.69 50.8) (size 40.64 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0cb4f2ca-84b3-4b7f-ac05-316b1c40137b)
+    (property "Sheetname" "JDI Memory LCD 1.282in" (at 186.69 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "JDI_MemoryLCD_1.28in.kicad_sch" (at 186.69 88.2146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "DisplayConverterTesterBoard"
+        (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 53.34 50.8) (size 45.72 36.83) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
