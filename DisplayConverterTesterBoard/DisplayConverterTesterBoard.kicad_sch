@@ -552,10 +552,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 95a7b3a4-21c3-4f0a-b7a2-c3ceb7b688fe)
     )
-    (pin "3V3" input (at 195.58 55.88 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid ceecaa8b-19a3-4ffa-85dd-fa6b0dffdce6)
-    )
     (pin "SCK" input (at 195.58 60.96 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 09e05c46-be19-46ed-be06-0832c5c8f1b7)
@@ -567,6 +563,10 @@
     (pin "EXTMODE" input (at 195.58 71.12 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 61f88141-281c-4b59-92c5-e28347faff76)
+    )
+    (pin "VDD" input (at 195.58 55.88 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid bde51212-fa9e-4b9f-9e2c-cf5a4c80ad60)
     )
     (instances
       (project "DisplayConverterTesterBoard"
