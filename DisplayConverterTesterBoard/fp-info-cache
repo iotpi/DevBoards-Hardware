@@ -1,4 +1,4 @@
-21615368765166339
+21617061884027723
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59456,6 +59456,13 @@ Hirose FH12, FFC/FPC connector, FH12-10S-0.5SH, 10 Pins per row (https://www.hir
 connector Hirose FH12 horizontal
 0
 12
+11
+IotPi_Connector_Hirose
+BM20B(0.8)-10DS-0.4V
+
+
+0
+14
 11
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm

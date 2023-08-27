@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "IotPi_Connector_FPC")(type "KiCad")(uri "${KIPRJMOD}/../Footprints/IotPi_Connector_FPC.pretty")(options "")(descr ""))
+  (lib (name "IotPi_Connector_Hirose")(type "KiCad")(uri "/home/hongbo/Developer/Embedded/IotPi/DevBoards/Hardware/Footprints/IotPi_Connector_Hirose.pretty")(options "")(descr ""))
 )
