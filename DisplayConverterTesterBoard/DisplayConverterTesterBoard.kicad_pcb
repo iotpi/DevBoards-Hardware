@@ -754,7 +754,7 @@
     (path "/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b/5556863b-cf5f-46f0-9b48-1808c4329f8a")
     (attr exclude_from_pos_files exclude_from_bom)
     (net_tie_pad_groups "1, 2, 3")
-    (fp_text reference "NT2" (at 0.9188 -5.2972 90) (layer "F.SilkS")
+    (fp_text reference "NT2" (at -4.5992 -2.8232 180) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 411529e5-66c0-4c6e-a48a-4b0f706bee90)
     )
@@ -4592,7 +4592,6 @@
       76db8652-55c1-418d-b016-a8d081af9b51
       78186df9-c7a2-4292-ae67-07130660dec3
       7986a89e-6673-47ea-9353-15651fe575b0
-      7a089d89-ddf6-4531-bafe-a02e15cbe6c4
       7b8d7059-2219-4950-b9bd-1246a6e26a69
       7c00940b-7cbe-45e2-936c-d1edc525cd24
       801b9d8c-5231-4428-b5a5-047a7dfcd972
@@ -4609,13 +4608,11 @@
       8c8a3c5c-7fac-4257-8dfb-2ded0e062284
       8e0ec5e6-3e0a-4044-9539-37e5987ea94a
       97fc501d-1301-494f-994a-e6fcc4460c26
-      9a62941c-9d76-40bc-a57e-9fc00f00dace
       9ad48860-b734-4403-b777-dfa3d8ede0b3
       9c033f93-39a2-493e-b169-4b9eb610b69e
       9d9c71b4-08ce-4df0-b335-5d1dfd9994b5
       a03760bb-b46d-4336-9ad5-05f03a2c2c76
       a0ea4158-0fbf-42b6-84c3-0d9eefc8d165
-      a27a75d7-96cf-4727-abeb-bdd0c04439d6
       a3460541-a84e-40a8-a856-84f0b54834a3
       a59d0d05-25ae-47db-92a3-707f0488fbc5
       a6d11442-d26e-4e3f-8563-5c020c4d8cb7
@@ -4630,7 +4627,6 @@
       be24988c-cb6e-41e1-95ce-cedfdf1a5a99
       c0dc1611-76d2-49a7-a7a8-3e9b44408d32
       c303dcb6-103d-4921-9d7d-6325a6ac9bcd
-      c50939c7-20af-4fdb-8caa-ea4679cedc93
       c5af82ea-3e2b-4c78-9c02-82d66286d657
       c79b2f29-a754-4ccb-854f-74ae1363fe8a
       c7b117b1-eed3-42d7-afed-cdc98dbf3920
@@ -4638,8 +4634,6 @@
       cb7e4201-7fe7-4286-b601-77600a6b42fb
       cf204527-3164-4b4c-ac83-8198bfc52c72
       d02be39e-f130-4d02-929d-c7c090135f2b
-      d09a95c3-2839-42b1-840d-cd8af7bc995e
-      d2115da7-e2be-4fa1-a305-1d2e354b5785
       d5dd7448-75e1-4e87-8f24-006e6712b506
       d6af1d5c-d91d-454e-ad02-4f6dcbcfa9f8
       d8bdf215-d511-465c-b3da-3ebe49adc6f0
