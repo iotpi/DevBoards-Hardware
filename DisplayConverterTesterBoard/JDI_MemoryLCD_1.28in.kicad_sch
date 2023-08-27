@@ -716,7 +716,7 @@
           (reference "C?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "C?") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -750,7 +750,7 @@
   (symbol (lib_id "Device:NetTie_3_Tee") (at 140.97 170.18 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5556863b-cf5f-46f0-9b48-1808c4329f8a)
-    (property "Reference" "NT?" (at 140.97 165.1 0)
+    (property "Reference" "NT2" (at 140.97 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "NetTie_3_Tee" (at 140.97 167.64 0)
@@ -768,7 +768,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "NT?") (unit 1)
+          (reference "NT2") (unit 1)
         )
       )
     )
@@ -802,7 +802,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 67.31 83.82 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64d50b55-4026-481d-acc2-65cf6f6ca490)
-    (property "Reference" "J?" (at 67.31 74.93 0)
+    (property "Reference" "J6" (at 67.31 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03" (at 67.31 77.47 0)
@@ -820,7 +820,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "J?") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -933,7 +933,7 @@
           (reference "C?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "C?") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -967,7 +967,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x10_MountingPin") (at 132.08 82.55 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bde6b540-7706-4344-8618-2bc048c2684f)
-    (property "Reference" "J?" (at 132.08 66.04 0)
+    (property "Reference" "J7" (at 132.08 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x10_MountingPin" (at 132.08 68.58 0)
@@ -993,7 +993,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "J?") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -1025,7 +1025,7 @@
           (reference "C?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/0cb4f2ca-84b3-4b7f-ac05-316b1c40137b"
-          (reference "C?") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )

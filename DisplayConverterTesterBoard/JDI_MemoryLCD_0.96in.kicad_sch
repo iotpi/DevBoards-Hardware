@@ -447,7 +447,7 @@
           (reference "C?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/edcee65f-25a8-4aef-871d-10e28d870fa2"
-          (reference "C?") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -476,7 +476,7 @@
           (reference "C?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/edcee65f-25a8-4aef-871d-10e28d870fa2"
-          (reference "C?") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -485,7 +485,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_02x05_Counter_Clockwise_MountingPin") (at 137.16 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6aa5908d-d937-4de0-9174-ab88c910df27)
-    (property "Reference" "J?" (at 138.43 52.07 0)
+    (property "Reference" "J5" (at 138.43 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BM20B(0.8)-10DS-0.4V" (at 138.43 54.61 0)
@@ -511,7 +511,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/edcee65f-25a8-4aef-871d-10e28d870fa2"
-          (reference "J?") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )

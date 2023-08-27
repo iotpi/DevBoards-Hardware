@@ -473,7 +473,7 @@
           (reference "J?") (unit 1)
         )
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758"
-          (reference "J?") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -482,7 +482,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 115.57 133.35 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9cbebae-1dd1-44d1-9232-4bf339c2eb38)
-    (property "Reference" "J?" (at 115.57 124.46 0)
+    (property "Reference" "J3" (at 115.57 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03" (at 115.57 127 0)
@@ -500,7 +500,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758"
-          (reference "J?") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )

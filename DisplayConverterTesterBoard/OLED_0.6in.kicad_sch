@@ -1057,7 +1057,7 @@
   (symbol (lib_id "Diode:1N4148") (at 196.85 107.95 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ee7e7ff-38f3-4bc7-8e67-ee088d7a4c64)
-    (property "Reference" "D?" (at 196.85 101.6 0)
+    (property "Reference" "D2" (at 196.85 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N4148" (at 196.85 104.14 0)
@@ -1080,7 +1080,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "D?") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -1114,7 +1114,7 @@
   (symbol (lib_id "Device:C") (at 193.04 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23f0dce6-0582-4643-86aa-4cf6e4728b42)
-    (property "Reference" "C?" (at 186.69 33.02 0)
+    (property "Reference" "C6" (at 186.69 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u 16V" (at 181.61 36.83 0)
@@ -1131,7 +1131,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -1290,7 +1290,7 @@
   (symbol (lib_id "Device:R") (at 222.25 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 953147eb-802e-49c9-862c-579f2c1da114)
-    (property "Reference" "R?" (at 224.79 114.3 0)
+    (property "Reference" "R3" (at 224.79 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "118K" (at 224.79 116.84 0)
@@ -1307,7 +1307,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "R?") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -1316,7 +1316,7 @@
   (symbol (lib_id "Regulator_Switching:TPS61040DBV") (at 179.07 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f08e821-c02f-4021-9daf-a4b15672d99a)
-    (property "Reference" "U?" (at 179.07 113.03 0)
+    (property "Reference" "U2" (at 179.07 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TPS61040DBV" (at 179.07 115.57 0)
@@ -1336,7 +1336,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "U?") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -1370,7 +1370,7 @@
   (symbol (lib_id "Device:C") (at 160.02 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b714f057-ff0a-48dd-85d7-e74c568602f3)
-    (property "Reference" "C?" (at 163.83 33.02 0)
+    (property "Reference" "C5" (at 163.83 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u 16V" (at 163.83 35.56 0)
@@ -1387,7 +1387,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -1396,7 +1396,7 @@
   (symbol (lib_id "Device:C") (at 208.28 115.57 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be67d12c-258b-4ac4-afea-2373e7d198e6)
-    (property "Reference" "C?" (at 212.09 114.3 0)
+    (property "Reference" "C7" (at 212.09 114.3 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "22p 16V" (at 212.09 116.84 0)
@@ -1413,7 +1413,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -1447,7 +1447,7 @@
   (symbol (lib_id "Device:C") (at 151.13 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ccc616cb-076a-4b0b-b5b0-b6d8142f2ac2)
-    (property "Reference" "C?" (at 144.78 33.02 0)
+    (property "Reference" "C3" (at 144.78 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u 16V" (at 139.7 36.83 0)
@@ -1464,7 +1464,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -1498,7 +1498,7 @@
   (symbol (lib_id "Device:C") (at 154.94 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df9ce689-b26b-4674-8719-409425313667)
-    (property "Reference" "C?" (at 158.75 129.54 0)
+    (property "Reference" "C4" (at 158.75 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u 16V" (at 158.75 132.08 0)
@@ -1515,7 +1515,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -1524,7 +1524,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x20_MountingPin") (at 74.93 85.09 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e2b03a64-1d51-4351-8c56-590ba70c005b)
-    (property "Reference" "J?" (at 72.39 85.4456 0)
+    (property "Reference" "J4" (at 72.39 85.4456 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "FPC 20PIN P0.5mm" (at 72.39 87.9856 0)
@@ -1560,7 +1560,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "J?") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -1594,7 +1594,7 @@
   (symbol (lib_id "Device:C") (at 97.79 111.76 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec3d8f3b-8c57-46be-8c38-cf1599b06f36)
-    (property "Reference" "C?" (at 104.14 110.49 0)
+    (property "Reference" "C2" (at 104.14 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u 10V" (at 109.22 114.3 0)
@@ -1611,7 +1611,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "C?") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -1620,7 +1620,7 @@
   (symbol (lib_id "Device:R") (at 222.25 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ede327e9-84c1-40c6-bdbf-3cfe272becc9)
-    (property "Reference" "R?" (at 224.79 129.54 0)
+    (property "Reference" "R4" (at 224.79 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "13K3" (at 224.79 132.08 0)
@@ -1637,7 +1637,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -1646,7 +1646,7 @@
   (symbol (lib_id "Device:R") (at 222.25 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f7b8dec1-a6fc-4fb1-af3a-192d54a062f3)
-    (property "Reference" "R?" (at 224.79 31.75 0)
+    (property "Reference" "R2" (at 224.79 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1M" (at 224.79 34.29 0)
@@ -1663,7 +1663,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "R?") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -1672,7 +1672,7 @@
   (symbol (lib_id "Device:L") (at 179.07 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fba93d38-c1ad-45e8-9e4e-3855f9b2c882)
-    (property "Reference" "L?" (at 179.07 102.87 90)
+    (property "Reference" "L2" (at 179.07 102.87 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22u" (at 179.07 105.41 90)
@@ -1689,7 +1689,7 @@
     (instances
       (project "DisplayConverterTesterBoard"
         (path "/58d9d6aa-d5e3-4b7b-b546-d57c329de758/7553e832-beab-499d-896a-2d765e7d0d57"
-          (reference "L?") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
