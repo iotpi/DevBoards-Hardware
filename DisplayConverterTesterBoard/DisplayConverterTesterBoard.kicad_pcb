@@ -39,6 +39,7 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 86.45 95.9)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -1697,6 +1698,24 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b28be545-87dc-4d8e-b658-5fc33c5b3df8))
   (gr_line (start 123.45 59.9) (end 123.45 95.9)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e1ad6ae2-180b-4414-a956-a79a9aae053d))
+  (dimension (type aligned) (layer "Cmts.User") (tstamp e8b7e16e-dd25-4872-8387-37c2f7b11639)
+    (pts (xy 123.45 95.9) (xy 123.45 59.9))
+    (height 7.45)
+    (gr_text "36.0000 mm" (at 129.75 77.9 90) (layer "Cmts.User") (tstamp e8b7e16e-dd25-4872-8387-37c2f7b11639)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "Cmts.User") (tstamp edba0aa3-11d8-4264-81af-15f203b67c69)
+    (pts (xy 86.45 95.9) (xy 123.45 95.9))
+    (height 6.6)
+    (gr_text "37.0000 mm" (at 104.95 101.35) (layer "Cmts.User") (tstamp edba0aa3-11d8-4264-81af-15f203b67c69)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
 
   (segment (start 117.5468 80.5432) (end 116.8031 80.5432) (width 0.5) (layer "F.Cu") (net 1) (tstamp 13138337-60f3-4888-a6dc-5fbba7155fe9))
   (segment (start 119.5148 82.0538) (end 118.723928 82.0538) (width 0.3) (layer "F.Cu") (net 1) (tstamp 16686e03-a8c8-4dac-a94a-39bc1e698c3d))
