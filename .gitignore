@@ -6,6 +6,7 @@
 *.bak
 *-backups
 _autosave*
+\#*
 *.log
 *.lck
 # it saves editor settings like visible layers, selection filters, etc
